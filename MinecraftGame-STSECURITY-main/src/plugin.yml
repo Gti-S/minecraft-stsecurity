@@ -1,7 +1,7 @@
 name: STS
 main: com.sefo.protections.sts.Main
 version: 0.0.1
-author: Value11
+author: unknown
 
 commands:
  stsecurity:
