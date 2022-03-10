@@ -29,7 +29,7 @@ public class Main extends JavaPlugin{
 		this.console("");
 		this.console("&rLicenseID: &cnull");
 		this.console("&rVersion: 1.0");
-		this.console("&rAuthor: &bSyoof_");
+		this.console("&rAuthor: &bNot defined");
 		this.console("&rName: &bST-Security");
 		this.console("");
 		this.console("         &a&lActivated!");
@@ -49,7 +49,7 @@ public class Main extends JavaPlugin{
 		this.console("");
 		this.console("&rLicenseID: &cnull");
 		this.console("&rVersion: 1.0");
-		this.console("&rAuthor: &bSyoof_");
+		this.console("&rAuthor: &bNot defined");
 		this.console("&rName: &bST-Security");
 		this.console("");
 		this.console("         &4&lDeActivated!");
